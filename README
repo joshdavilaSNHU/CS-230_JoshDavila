@@ -1,11 +1,11 @@
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The Gaming Room, a client of Creative Technology Solutions (CTS), hired a team to develope a web-based version of their Android game, Draw It or Lose It. The software requirements included support for multiple teams with multiple players, the creation of team names, and implementation of a singleton pattern for managing game instances.
 
-What did you do particularly well in developing this documentation?
+In developing this documentation, one strong aspect was my clear explaination of the design constraints and requirements. My document effectively outlined the client's needs and the proposed solutions, providing an overview for both the client and development team.
 
-What about the process of working through a design document did you find helpful when developing the code?
+Working through the design document I provided valuable insights into structuring the codebase. By laying out the class structure and design patterns, the development process became more organized and efficient. It helped in identifying potential areas of complexity and planning for scalability and maintainability from the outset.
 
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If there was one part to revise, it would be to provide more detailed explanations or examples of certain design decisions. While I outlined the overall approach, additional clarification on specific implementation details could enhance comprehension, especially for developers who may reference it during the coding process.
 
-How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+Interpreting the user's needs involved careful consideration of scalability, performance, and security. By implementing the singleton pattern and leveraging object-oriented principles, the design created seamless gameplay while addressing concerns such as data integrity and user privacy. Understanding the user's perspective is crucial as it directly impacts the usability and success of the software.
 
-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+Approaching software design involved a focus on scalability, maintainability, and efficiency. Techniques such as utilizing design patterns (singleton pattern),  object-oriented principles, and considering platform-specific requirements enabled a robust design. In the future, techniques like prototyping, user testing, and iterative development could further refine the software design process, aligning with user needs and technological advancements.
